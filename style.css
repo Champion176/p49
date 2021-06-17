@@ -1,0 +1,26 @@
+h1{
+    background-color: darkorange;
+}
+*{
+border: darkorange;
+}
+
+body{
+background-color: rgb(255, 145, 0);
+}
+
+.header{
+    
+
+display: flex;
+justify-content:stretch;
+
+
+
+}
+
+
+
+
+
+
